@@ -6,7 +6,7 @@ from pyrogram.types import CallbackQuery, Message
 from config import BANNED_USERS, MUSIC_BOT_NAME, adminlist, lyrical
 from strings import get_command
 from Rockhush import app
-from Rockhush.core.call import Anon
+from Rockhush.core.call import Rock
 from Rockhush.misc import db
 from Rockhush.utils.database import get_authuser_names, get_cmode
 from Rockhush.utils.decorators import ActualAdminCB, AdminActual, language
