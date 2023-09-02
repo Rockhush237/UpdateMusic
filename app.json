@@ -15,12 +15,12 @@
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
         "value": "12227067",
-        "required": true
+        "required": false
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
         "value": "b463bedd791aa733ae2297e6520302fe",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
@@ -35,12 +35,12 @@
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
         "value": "Sophia Music",
-        "required": true
+        "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "6204761408",
-        "required": true
+        "required": false
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
@@ -55,6 +55,31 @@
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
         "value": "",
+        "required": false
+      },
+        "UPSTREAM_REPO": {
+        "description": "MusicBot Repo ",
+        "value": "https://github.com/Rockhush237/UpdateMusic",
+        "required": false
+      },
+        "UPSTREAM_BRANCH": {
+        "description": "repo Branch main,master link this",
+        "value": "main",
+        "required": false
+      },
+        "AUTO_LEAVING_ASSISTANT": {
+        "description": "Assis id auto leave u want on then use 'True' ",
+        "value": "False",
+        "required": false
+      },
+        "PING_IMG_URL": {
+        "description": "Ping Pic",
+        "value": "https://te.legra.ph/file/517a42a8d3bf26f29473a.jpg",
+        "required": false
+      },
+         "START_IMG_URL": {
+        "description": "start Pic",
+        "value": "https://te.legra.ph/file/517a42a8d3bf26f29473a.jpg",
         "required": false
       },
       "LOG_GROUP_ID": {
