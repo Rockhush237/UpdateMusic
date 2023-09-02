@@ -1,12 +1,12 @@
 {
-    "name": "ʀᴏᴄᴋ ダ ᴍᴜsɪᴄ",
+    "name": "sophia music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://te.legra.ph/file/e7a8c2b902d3e2fefd4ff.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Rockhush",
+    "am",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "12227067",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "b463bedd791aa733ae2297e6520302fe",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://ambot:ambot@ambot.onafiyb.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ʀᴏᴄᴋ ダ ᴍᴜsɪᴄ",
+        "value": "Sophia Music",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6204761408",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001840241140",
         "required": true
       }
     },
