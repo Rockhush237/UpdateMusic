@@ -9,13 +9,13 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ◉‿◉",
+                text="✰• ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •✰",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="ʜᴇʟᴩ",
+                text="《☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆》",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
@@ -30,35 +30,35 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ◉‿◉",
+                text="✰• ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •✰",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦•ᴄʜᴀᴛ ɢʀᴏᴜᴘ•✦", url=config.SUPPORT_GROUP
+                text="❣︵ ᴄʜᴀᴛ-ɢʀᴏᴜᴘ ︵❣", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="✦•ᴏᴡɴᴇʀ•✦", user_id=OWNER
+                text="★ミᴏᴡɴᴇʀ彡★", user_id=OWNER
             )
         ],
          [
             InlineKeyboardButton(
-                text="ʜᴇʟᴩ", callback_data="settings_back_helper"
+                text="《☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆》", callback_data="settings_back_helper"
             )
         ],
          [
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/rockhushh"
+                text="♡¸.•* ᴄʜᴀɴɴᴇʟ*•.¸♡", url=f"https://t.me/rockhushh"
             ),
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠᴇʟᴏᴘᴇʀ✿)", url=f"https://t.me/Rockhush_13Ra_kinG"
+                text="❍✶ ᴅᴇᴠʟᴏᴘᴇʀ ✶❍", url=f"https://t.me/Rockhush_13Ra_kinG"
              ),
           ],
           [
             InlineKeyboardButton(
-                text="ᴀʙᴏᴜᴛ ʀᴏᴄᴋʜᴜꜱʜ", url=f"https://t.me/about_Rockhush"
+                text="╰☆ ᴀʙᴏᴜᴛ ʀᴏᴄᴋʜᴜsʜ ☆╮", url=f"https://t.me/about_Rockhush"
             ),
           ],
      ]
