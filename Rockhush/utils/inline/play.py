@@ -60,12 +60,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             ),
         ],
          [
-            InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Rockhush_13Ra_kinG"
-            ),
+            
             InlineKeyboardButton(
 
-                text="✦•ᴄʜᴀᴛ ɢʀᴏᴜᴘ•✦", url=f"https://t.me/mood_wali_vibes"
+                text="(͡° ͜ʖ ͡ᴄʜᴀᴛ ɢʀᴏᴜᴘ🥀🖤", url=f"https://t.me/mood_wali_vibes"
              ),
           ],
         [
@@ -127,9 +125,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
             ),
         ],
          [
-            InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Rockhush_13Ra_kinG"
-            ),
+            
             InlineKeyboardButton(
 
                  text="✦•ᴄʜᴀᴛ ɢʀᴏᴜᴘ•✦", url=f"https://t.me/mood_wali_vibes"
@@ -197,12 +193,10 @@ def telegram_markup(_, chat_id):
         ],
        
          [
-            InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Rockhush_13Ra_kinG"
-            ),
+            
             InlineKeyboardButton(
 
-                 text="✦•ᴄʜᴀᴛ ɢʀᴏᴜᴘ•✦", url=f"https://t.me/mood_wali_vibes"
+                 text="(͡° ͜ʖ ͡ᴄʜᴀᴛ ɢʀᴏᴜᴘ🥀🖤", url=f"https://t.me/mood_wali_vibes"
              ),
           ],
        [
@@ -364,12 +358,10 @@ def queue_markup(_, videoid, chat_id):
         ],
        
          [
-            InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Rockhush_13Ra_kinG"
-            ),
+            
             InlineKeyboardButton(
 
-                text="✦•ᴄʜᴀᴛ ɢʀᴏᴜᴘ•✦", url=f"https://t.me/mood_wali_vibes"
+                text="(͡° ͜ʖ ͡ᴄʜᴀᴛ ɢʀᴏᴜᴘ🥀🖤", url=f"https://t.me/mood_wali_vibes"
              ),
           ],
         [
