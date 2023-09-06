@@ -9,13 +9,13 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✰• ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •✰",
+                text="ᴀᴅᴅ ᴛᴏ ᴍᴇ ʙᴇʙᴇ ❣",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="《☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆》",
+                text="☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
@@ -30,30 +30,30 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✰• ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •✰",
+                text="ᴀᴅᴅ ᴛᴏ ᴍᴇ ʙᴇʙᴇ ❣",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="❣︵ ᴄʜᴀᴛ-ɢʀᴏᴜᴘ ︵❣", url=config.SUPPORT_GROUP
+                text="ᴄʜᴀᴛ-ɢʀᴏᴜᴘ😊❣", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="★ミᴏᴡɴᴇʀ彡★", user_id=OWNER
+                text="ᴏᴡɴᴇʀ͡° ͜ʖ ͡°", user_id=OWNER
             )
         ],
          [
             InlineKeyboardButton(
-                text="《☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆》", callback_data="settings_back_helper"
+                text="☆ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs☆", callback_data="settings_back_helper"
             )
         ],
          [
             InlineKeyboardButton(
-                text="♡¸.•* ᴄʜᴀɴɴᴇʟ*•.¸♡", url=f"https://t.me/rockhushh"
+                text="ᴄʜᴀɴɴᴇʟ͡° ͜ʖ ͡°", url=f"https://t.me/rockhushh"
             ),
             InlineKeyboardButton(
 
-                text="❍✶ ᴅᴇᴠʟᴏᴘᴇʀ ✶❍", url=f"https://t.me/Rockhush_13Ra_kinG"
+                text="ᴅᴇᴠʟᴏᴘᴇʀ✶❍", url=f"https://t.me/Rockhush_13Ra_kinG"
              ),
           ],
           [
