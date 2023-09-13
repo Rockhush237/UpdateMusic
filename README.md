@@ -60,7 +60,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
+</h3> <a href="https://t.me/rockhushh">Visit W3Schools.com!</a> 
+
 
 <p align="center">
 <a href="https://telegram.me/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
