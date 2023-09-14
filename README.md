@@ -59,8 +59,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ</h3> <a href="https://t.me/rockhushh">Rockhush!</a> 
- 」─
+    ─「 sᴜᴩᴩᴏʀᴛ </h3> <a href="https://t.me/rockhushh">ŘØĆҜĦỮŞĦ</a> 」─
 
 
 <p align="center">
